@@ -5,7 +5,7 @@ this repo contain how to fix
 1. wordpress use default config `WORDPRESS_DB_USER` as `example username`
 ![](static/wp-config.png)
 2. wordpress require to create database `WORDPRESS_DB_NAME` before start
-![](static/wp-config.png)
+![](static/database-name.png)
 
 ## reference
  - https://hub.docker.com/_/mariadb
